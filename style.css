@@ -1,0 +1,44 @@
+body {
+
+    font-family: Arial;
+
+    background-color: #77b1cc;
+
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 100px;
+}
+ 
+.quiz {
+
+    background-color: white;
+
+    max-width: 600px;
+
+    margin: 50px auto;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+}
+ 
+.sporsmal {
+
+    margin-bottom: 25px;
+
+}
+ 
+button {
+
+    padding: 10px;
+
+    margin-top: 10px;
+
+    border-radius: 10px;
+
+}
+ 
